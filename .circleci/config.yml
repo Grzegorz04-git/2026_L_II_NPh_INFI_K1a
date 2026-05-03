@@ -24,6 +24,8 @@ workflows:
 
   basic:  
 
-    jobs: 
+    jobs
 
       - build-and-test 
+      
+      
